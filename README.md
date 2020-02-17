@@ -27,6 +27,6 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
 3. **Introducción a Modelamiento**
     1. ¿Qué es un modelo?
     2. [Modelamiento Matemático](Cuadernos/Intro_Model.ipynb)
-    3. [Ejemplos de Modelos]()
+    3. [Ejemplos de Modelos](https://github.com/UCMetNum/Met-Num/blob/master/Cuadernos/Ejemplos_Model.ipynb)
     4. Derivadas (Crash Course)
     5. Ecuaciones Diferenciales
